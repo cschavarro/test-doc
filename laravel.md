@@ -13,6 +13,20 @@ Bienvenido a la documentación de Laravel. Estas secciones fueron diseñadas con
 
 ## ¿Quien disfrutara de Laravel?
 
-Laravel es un poderoso framework (Estructura de trabajo - Necesita corregirse) que enfatiza en la flexibilidad y expresividad. Usuarios nuevos a Laravel disfrutaran de la misma facilidad al desarrollar la cual se puede encontrar en los mas populares y livianos frameworks PHP. Usuarios con mas experiencia apreciarán la oportunidad de modular su código en formas que otros frameworks no permiten. La flexibilidad de Laravel le permitirá a tu organización actualizar y moldear las aplicaciones en cualquier momento tanto sea necesario, y la expresividad le permitirá a usted y su equipo a crear código que al mismo tiempo sea conciso y fácil de leer.
+Laravel es un poderoso framework que enfatiza en la flexibilidad y expresividad. Usuarios nuevos a Laravel disfrutaran de la misma facilidad al desarrollar la cual se puede encontrar en los mas populares y livianos frameworks PHP. Usuarios con mas experiencia apreciarán la oportunidad de modular su código en formas que otros frameworks no permiten. La flexibilidad de Laravel le permitirá a tu organización actualizar y moldear las aplicaciones en cualquier momento tanto sea necesario, y la expresividad le permitirá a usted y su equipo a crear código que al mismo tiempo sea conciso y fácil de leer.
 
 ## ¿Que hace diferente a Laravel?
+
+Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aquí unos pequeños puntos que hacen ejemplo de esto:
+
++ Bundles
++ El Eloquent ORM
++ Logica de Aplicación
++ Enrutamiento Invertido
++ Controladores Restful
++ Clase de Auto-carga
++ Compositores de Vistas
++ El contenedor IoC (Inversion of Controller)
++ Migraciones
++ Unidad de Pruebas
++ Paginado Automático
