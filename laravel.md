@@ -19,14 +19,14 @@ Laravel es un poderoso framework que enfatiza en la flexibilidad y expresividad.
 
 Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aquí unos pequeños puntos que hacen ejemplo de esto:
 
-+ Bundles
-+ El Eloquent ORM
-+ Logica de Aplicación
-+ Enrutamiento Invertido
-+ Controladores Restful
-+ Clase de Auto-carga
-+ Compositores de Vistas
-+ El contenedor IoC (Inversion of Controller)
-+ Migraciones
-+ Unidad de Pruebas
-+ Paginado Automático
++ __Bundles__ son el sistema modular de empaquetado que usa Laravel. [El Repositorio de Bundles de Laravel](Composers) hasta ahora contiene un buen número de características que se pueden añadir fácilmente a tu aplicación. Puedes descargar ya sea el repositorio  a tu carpeta de repositorios (Bundles) o puedes usar la herramienta de linea de comandos "Artisian" e instalarlos automáticamente.
++ __El Eloquent ORM__
++ __Logica de Aplicación__
++ __Enrutamiento Invertido__
++ __Controladores Restful__
++ __Clase de Auto-carga__
++ __Compositores de Vistas__
++ __El contenedor IoC (Inversion of Controller)__
++ __Migraciones__
++ __Unidad de Pruebas__
++ __Paginado Automático__
