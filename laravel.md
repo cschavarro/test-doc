@@ -1,12 +1,12 @@
 DOCUMENTACIÓN DE LARAVEL
 ===========================
 
-+ [Concepto Básico] (#concepto)
-+ [¿Quien disfrutara de Laravel?] (#quien)
-+ [¿Que hace diferente a Laravel?] (#diferente)
-+ [La Estructura de Aplicación (Application)] (#estruct)
-+ [La Comunidad Laravel] (#comunidad)
-+ [Información sobre la Licencia] (#licencia)
++ [Concepto Básico](#concepto)
++ [¿Quien disfrutara de Laravel?](#quien)
++ [¿Que hace diferente a Laravel?](#diferente)
++ [La Estructura de Aplicación (Application)](#estruct)
++ [La Comunidad Laravel](#comunidad)
++ [Información sobre la Licencia](#licencia)
 
 Concepto Básico
 
