@@ -7,7 +7,7 @@
 + [La Comunidad Laravel](#comunidad)
 + [Información sobre la Licencia](#licencia)
 
-<h2 id = '#concepto'>Concepto Básico</h2>
+<h2 id = 'concepto'>Concepto Básico</h2>
 
 Bienvenido a la documentación de Laravel. Estas secciones fueron diseñadas con el objetivo de servir como una guía de inicio a Laravel y como artículos de referencia. Aunque puedes ir a cualquier sección que necesites y empezar a aprender, te recomendamos que leas la documentación en orden, así nos permitirá establecer conceptos que serán utilizados en secciones posteriores.
 
