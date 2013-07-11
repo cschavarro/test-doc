@@ -21,7 +21,8 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 
 + __Bundles__ son el sistema modular de empaquetado que usa Laravel. [El Repositorio de Bundles de Laravel](http://bundles.laravel.com/) hasta ahora contiene un buen número de características que se pueden añadir fácilmente a tu aplicación. Puedes descargar ya sea el repositorio  a tu carpeta de repositorios (Bundles) o puedes usar la herramienta de linea de comandos "Artisian" e instalarlos automáticamente.
 
-+ __El Eloquent ORM__
++ __El Eloquent ORM__ es la implementación mas avanzada de PHP ActiveRecorded disponible. Con la capacidad de fácilmente aplicar restricciones a las relaciones y a las eager-loading anidadas podras tener total control sobre tus datos con todas las conveniencias del ActiveRecord. Eloquent soporta de forma nativa todos los métodos de Fluent, el constructor de consulta de Laravel.
+
 + __Logica de Aplicación__
 + __Enrutamiento Invertido__
 + __Controladores Restful__
