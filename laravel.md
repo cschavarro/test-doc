@@ -29,7 +29,7 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 
 + __Controladores Restful__ son una forma opcional par separar la lógica de peticiones GET y POST. En un ejemplo de inicio de sesión la acción get_login() de su controlador presentará / cargará el formulario y la acción pot_login() aceptará el formulario enviado,  lo validara y ya sea redirigir al formulario de inicio de sesión con un mensaje de error o redirigir al usuario a su pagina de inicio.
 
-+ __Clase de Auto-carga__
++ __Clase de Auto-carga__ es un nueva opcio
 + __Compositores de Vistas__
 + __El contenedor IoC (Inversion of Controller)__
 + __Migraciones__
