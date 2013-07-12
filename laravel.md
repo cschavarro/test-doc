@@ -31,7 +31,8 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 
 + __Clase de Auto-carga__ te abstiene de mantener una auto-cargador de coniguración y de cargar componentes innecesarios que no se van a utilizar. ¿Quieres utilizar un modelo o una librería? No te molestes en cargarla, solo úsala. Laravel hará es resto del trabajo.
 
-+ __Compositores de Vistas__
++ __Compositores de Vistas__son bloques de código que se pueden ejecutar cuando se carga una vista. Un buen ejemplo de esto sería la vista del panel de navegación lateral de un blog que contiene una lista de entradas aleatorias. Tu compositor contendrá la lógica para cargar todas las entradas, para que así solo tengas que cargar la vista y todo quede listo para usarlo. Esto le evita tener que asegurarse de que sus controladores carguen el un montón de datos de los modelos para las vistas que no están relacionadas con el contenido la pagina de ese método.
+
 + __El contenedor IoC (Inversion of Controller)__
 + __Migraciones__
 + __Unidad de Pruebas__
