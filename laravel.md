@@ -35,6 +35,7 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 
 + __El contenedor IoC (Inversión del Control o Inversion of Control)__ ofrece un método para generar nuevos objetos y, opcionalmente, crear instancias y referencias a un objeto unitario. IoC implica	 que raramente se tendrá que adicionar librerías externas al arranque. También implica que usted puede acceder a estos objetos desde cualquier lugar en el código sin tener que lidiar con una estructura monolítica inflexible.
 
-+ __Migraciones__ sirven como control de versiones a los esquemas de la base de datos 
++ __Migraciones__ sirven como control de versiones a los esquemas de la base de datos y están directamente integradas en Laravel. Puede generar al igual que ejecutar las migraciones usando la herramienta de linea de comandos "Artisan". En el momento que otro miembro realice cambios a los esquemas usted puede actualizar su copia desde el repositorio y ejecutar las migraciones. Y ahora también tu estas actualizado!.
+
 + __Unidad de Pruebas__
 + __Paginado Automático__
