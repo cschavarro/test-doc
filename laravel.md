@@ -37,5 +37,6 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 
 + __Migraciones__ sirven como control de versiones a los esquemas de la base de datos y están directamente integradas en Laravel. Puede generar al igual que ejecutar las migraciones usando la herramienta de linea de comandos "Artisan". En el momento que otro miembro realice cambios a los esquemas usted puede actualizar su copia desde el repositorio y ejecutar las migraciones. Y ahora también tu estas actualizado!.
 
-+ __Unidad de Pruebas__
++ __Unidad de Pruebas__ es una parte importante de Laravel. El propio Laravel ejecuta cientos de pruebas con el objetivo de procurar que nuevos cambios (actualizaciones)  no rompan algo de manera inesperada. Esta es una de las razones por la que ampliamente se considera a Laravel por tener uno de los versiones mas estables de la industria. Laravel también te permite hacer fácilmente unidades d prueba para tu propio código. Puedes ejecutar pruebas utilizando la herramienta de linea de comandos "Artisan".
+
 + __Paginado Automático__
