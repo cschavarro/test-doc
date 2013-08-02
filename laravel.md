@@ -34,6 +34,7 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 + __Compositores de Vistas__son bloques de código que se pueden ejecutar cuando se carga una vista. Un buen ejemplo de esto sería la vista del panel de navegación lateral de un blog que contiene una lista de entradas aleatorias. Tu compositor contendrá la lógica para cargar todas las entradas, para que así solo tengas que cargar la vista y todo quede listo para usarlo. Esto le evita tener que asegurarse de que sus controladores carguen el un montón de datos de los modelos para las vistas que no están relacionadas con el contenido la pagina de ese método.
 
 + __El contenedor IoC (Inversión del Control o Inversion of Control)__ ofrece un método para generar nuevos objetos y, opcionalmente, crear instancias y referencias a un objeto unitario. IoC implica	 que raramente se tendrá que adicionar librerías externas al arranque. También implica que usted puede acceder a estos objetos desde cualquier lugar en el código sin tener que lidiar con una estructura monolítica inflexible.
-+ __Migraciones__
+
++ __Migraciones__ sirven como control de versiones a los esquemas de la base de datos 
 + __Unidad de Pruebas__
 + __Paginado Automático__
