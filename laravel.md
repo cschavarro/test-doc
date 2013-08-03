@@ -39,4 +39,5 @@ Existen varias maneras que hacen a Laravel diferenciarse de otros Frameworks. Aq
 
 + __Unidad de Pruebas__ es una parte importante de Laravel. El propio Laravel ejecuta cientos de pruebas con el objetivo de procurar que nuevos cambios (actualizaciones)  no rompan algo de manera inesperada. Esta es una de las razones por la que ampliamente se considera a Laravel por tener uno de los versiones mas estables de la industria. Laravel también te permite hacer fácilmente unidades d prueba para tu propio código. Puedes ejecutar pruebas utilizando la herramienta de linea de comandos "Artisan".
 
-+ __Paginado Automático__
++ __Paginado Automático__ previene que la lógica de su aplicación se vuelva sature una cantidad de configuraciones de paginado. En vez de obtener la pagina actual,  tener que contar en número de registros obtenidos de la BD,  y seleccionar la información usando un LIMIT/OFFSET puedes invocar "paginate" y decirle a Laravel donde se deben colocar los enlaces de paginado en la vista. Laravel automáticamente hará el resto. El sistema de paginado de Laravel fue diseñado para ser fácil de implementar y modificar.  También es importante tener en cuenta que aunque Laravel maneja el paginado de forma automática no implica que no se pueda invocar o configurar estos sistemas de forma manual, esto es si usted lo prefiere.
+
