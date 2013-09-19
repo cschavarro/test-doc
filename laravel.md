@@ -13,7 +13,7 @@ Bienvenido a la documentación de Laravel. Esta secciones fueron diseñadas con 
 
 <h2 id = 'quien'>¿Quien disfrutará de Laravel?</h2>
 
-Laravel es un poderoso framework que enfatiza en la flexibilidad y expresividad. Los usuarios nuevos en Laravel van a disfrutar de la misma facilidad para desarrollar, la cual se tiene con los frameworks PHP mas populares y livianos. Usuarios con mas experiencia apreciarán la oportunidad de modular su código en formas que otros frameworks no permiten. La flexibilidad de Laravel le permitirá a tu organización actualizar y moldear las aplicaciones en cualquier momento tanto sea necesario, y la expresividad le permitirá a usted y su equipo a crear código que al mismo tiempo sea conciso y fácil de leer.
+Laravel es un poderoso framework que enfatiza en la flexibilidad y expresividad. Los usuarios nuevos en Laravel van a disfrutar de la misma facilidad para desarrollar, la cual se tiene con los frameworks PHP mas populares y livianos. Los usuarios con mas experiencia apreciarán la oportunidad de modular su código en formas que no permiten otros frameworks. La flexibilidad de Laravel permitirá a su organización actualizar y moldear las aplicaciones en cualquier momento en cuanto sea necesario, de la misma manera la expresividad le permitirá a usted y su equipo crear un código que al mismo tiempo sea conciso y fácil de leer.
 
 <h2 id = 'diferente'>¿Que hace diferente a Laravel?</h2>
 
