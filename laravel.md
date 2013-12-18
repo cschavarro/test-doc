@@ -25,7 +25,7 @@ Existen varias formas en las que Laravel se diferencia de otros Frameworks. Aqu�
 
 + __Lógica de Aplicación__ puede ser implementada dentro de la aplicación ya sea usando controladores (con lo cual muchos desarrolladores web ya están familiarizados) o directamente con declaraciones de Routes (rutas) con sintaxis similar a del Framework Sinatra. Laravel esta diseñado con la filosofía de ofrecer al diseñador la flexibilidad que necesita para crear todo, desde sitios pequeños hasta grandes aplicaciones empresariales.
 
-+ __Direccionamiento Invertido__ permite crear enlaces a rutas nombradas. Al crear un enlace solo tiene solamente una como nombre el mismo de la Ruta y Laravel automáticamente insertara la URI correcta. Esto te permite cambiar las rutas en un tiempo posterior y Laravel actualizará todos los enlaces relevantes en todo el sito web.
++ __Direccionamiento Invertido__ permite crear enlaces a rutas nombradas. Al crear enlaces solo se tiene que usar el nombre de la Ruta y Laravel automáticamente insertara la URI correcta. Esto permite cambiar las rutas después de un tiempo y Laravel actualizará todos los enlaces relevantes en todo el sito web.
 
 + __Controladores Restful__ son una forma opcional par separar la lógica de peticiones GET y POST. En un ejemplo de inicio de sesión la acción get\_login() de su controlador presentará / cargará el formulario y la acción post\_login() aceptará el formulario enviado,  lo validara y ya sea redirigir al formulario de inicio de sesión con un mensaje de error o redirigir al usuario a su pagina de inicio.
 
