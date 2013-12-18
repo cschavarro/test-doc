@@ -23,7 +23,7 @@ Existen varias formas en las que Laravel se diferencia de otros Frameworks. Aqu�
 
 + __El Eloquent ORM__ es la implementación disponible mas avanzada del PHP ActiveRecorded. Con la capacidad de fácilmente aplicar restricciones a relaciones y a eager-loading anidadas tendrá total control sobre sus datos con toda la conveniencia del ActiveRecord. Eloquent soporta de forma nativa todos los métodos de Fluent, el constructor de consultas de Laravel.
 
-+ __Lógica de Aplicación__ se puede implementar dentro de la aplicación ya sea usando controladores (los cuales muchos desarrolladores web ya están familiarizados) o directamente con declaraciones de Routes (rutas) usando sintaxis similar a del Framework Sinatra. Laravel es diseñado con la filosofía de ofrecerle al diseñador la flexibilidad que necesita para crear todo, desde sitios pequeños hasta grandes aplicaciones empresariales.
++ __Lógica de Aplicación__ puede ser implementada dentro de la aplicación ya sea usando controladores (con lo cual muchos desarrolladores web ya están familiarizados) o directamente con declaraciones de Routes (rutas) con sintaxis similar a del Framework Sinatra. Laravel esta diseñado con la filosofía de ofrecer al diseñador la flexibilidad que necesita para crear todo, desde sitios pequeños hasta grandes aplicaciones empresariales.
 
 + __Direccionamiento Invertido__ permite crear enlaces a rutas nombradas. Al crear un enlace solo tiene solamente una como nombre el mismo de la Ruta y Laravel automáticamente insertara la URI correcta. Esto te permite cambiar las rutas en un tiempo posterior y Laravel actualizará todos los enlaces relevantes en todo el sito web.
 
