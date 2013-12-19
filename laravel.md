@@ -29,7 +29,7 @@ Existen varias formas en las que Laravel se diferencia de otros Frameworks. Aqu�
 
 + __Controladores Restful__ son la forma opcional para separar la lógica de las peticiones GET y POST. En un ejemplo de inicio de sesión la acción get\_login() de su controlador cargará el formulario, y la acción post\_login() aceptará el formulario enviado,  lo validara y ya sea redirigir al formulario de inicio de sesión con un mensaje de error o redirigir al usuario a su pagina de inicio.
 
-+ __Clase de Auto-carga__ te abstiene de mantener una auto-cargador de configuración y de cargar componentes innecesarios que no se van a utilizar. ¿Quieres utilizar un modelo o una librería? No te molestes en cargarla, solo úsala. Laravel hará es resto del trabajo.
++ __Clase de Auto-carga__ abstiene de mantener una configuración de carga automática, al igual que tener que cargar componentes innecesarios que no va a ser utilizados. ¿Quieres utilizar un modelo o una librería? No te molestes en cargarla, solo úsala. Laravel hará es resto del trabajo.
 
 + __Compositores de Vistas__son bloques de código que se pueden ejecutar cuando se carga una vista. Un buen ejemplo de esto sería la vista del panel de navegación lateral de un blog que contiene una lista de entradas aleatorias. Tu compositor contendrá la lógica para cargar todas las entradas, para que así solo tengas que cargar la vista y todo quede listo para usarlo. Esto le evita tener que asegurarse de que sus controladores carguen el un montón de datos de los modelos para las vistas que no están relacionadas con el contenido la pagina de ese método.
 
