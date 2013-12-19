@@ -27,7 +27,7 @@ Existen varias formas en las que Laravel se diferencia de otros Frameworks. Aqu�
 
 + __Direccionamiento Invertido__ permite crear enlaces a rutas nombradas. Al crear enlaces solo se tiene que usar el nombre de la Ruta y Laravel automáticamente insertara la URI correcta. Esto permite cambiar las rutas después de un tiempo y Laravel actualizará todos los enlaces relevantes en todo el sito web.
 
-+ __Controladores Restful__ son una forma opcional par separar la lógica de peticiones GET y POST. En un ejemplo de inicio de sesión la acción get\_login() de su controlador presentará / cargará el formulario y la acción post\_login() aceptará el formulario enviado,  lo validara y ya sea redirigir al formulario de inicio de sesión con un mensaje de error o redirigir al usuario a su pagina de inicio.
++ __Controladores Restful__ son la forma opcional para separar la lógica de las peticiones GET y POST. En un ejemplo de inicio de sesión la acción get\_login() de su controlador cargará el formulario, y la acción post\_login() aceptará el formulario enviado,  lo validara y ya sea redirigir al formulario de inicio de sesión con un mensaje de error o redirigir al usuario a su pagina de inicio.
 
 + __Clase de Auto-carga__ te abstiene de mantener una auto-cargador de configuración y de cargar componentes innecesarios que no se van a utilizar. ¿Quieres utilizar un modelo o una librería? No te molestes en cargarla, solo úsala. Laravel hará es resto del trabajo.
 
