@@ -44,4 +44,16 @@ Existen varias formas en las que Laravel se diferencia de otros Frameworks. Aqu�
 Estos son solo algunos puntos que demuestra como Laravel se diferencia de otros Frameworks PHP. Todas estas características y muchas otras mas se irán explicando a medida que se avance en la documentación.
 
 <h2 id = 'estruct'>La Estructura de Aplicación</h2>
+La estructura del directorio que tiene laravel fue diseñado para ser familiar a todos los usuarios que utilicen cualquier otro framework PHP. Aplicaciones web de cualquier tamaño o forma puede ser creada facilmente con esta estructura, similar a como lo crearían en otros frameworks.
 
+Sin embargo, debido a la arquitectura única de Laravel es posible para lo desarrolladores crear su propia infraestructura especificamente diseñada para su aplicación. Esto puede ser mas beneficioso para proyectos de gran escala tales como son los sistemas de administración de contenido. Este tipo de flexibilidad arquitectónica es unica de laravel.
+
+A lo largo de la documentación especificaremos las ubicaciones predeterminadas para las declaraciones cuando sea requerido.
+
+<h2 id = 'comunidad'>La Comunidad Laravel</h2>
+Afortunadamente Laravel cuenta con una comunidad que esta creciendo rapidamente, es amigable al igual que entusiasta.
+
+Muchos de nosotros pasamos la gran parte del tiempo en el Canal IRC #laravel en FreeNode. [Aquí hay una publicación mostrando como te puedes unir](http://forums.laravel.com/viewtopic.php?id=671). Pasar tiempo en el canal IRC es una excelente manera para aprender mas acerca del desarrollo web con Lavarel. Puedes hacer preguntas, responder preguntas de otros, o solo pasar el rato y aprender leyendo las respuestas a preguntas realizadas por otros usuarios. Nosotros amamos laravel y también nos gustaría hablar de el contigo, así que no te sientas un extraño y habla.
+
+<h2 id = 'licencia'>Información sobre la licencia</h2>
+Laravel es un software de código de fuente libre (open-source) licenciado bajo la [Licencia MIT](http://www.opensource.org/licenses/mit-license.php)
