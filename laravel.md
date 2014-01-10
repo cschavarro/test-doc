@@ -56,4 +56,4 @@ Afortunadamente Laravel cuenta con una comunidad que esta creciendo rápidamente
 Muchos de nosotros pasamos la gran parte del tiempo en el Canal IRC #laravel en FreeNode. [Aquí hay una publicación mostrando como te puedes unir](http://forums.laravel.com/viewtopic.php?id=671). Pasar tiempo en el canal IRC es una excelente manera para aprender mas acerca del desarrollo web con Lavarel. Puedes hacer preguntas, responder preguntas de otros, o solo pasar el rato y aprender leyendo las respuestas a preguntas realizadas por otros usuarios. Nosotros amamos laravel y también nos gustaría hablar de el contigo, así que no te sientas un extraño y habla.
 
 <h2 id = 'licencia'>Información sobre la licencia</h2>
-Laravel es un software de código de fuente libre (open-source) licenciado bajo la [Licencia MIT].(http://www.opensource.org/licenses/mit-license.php)
+Laravel es un software de código de fuente libre (open-source) licenciado bajo la [Licencia MIT](http://www.opensource.org/licenses/mit-license.php).
