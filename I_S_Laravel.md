@@ -26,7 +26,7 @@ Si todo sale bien veras un hermosa imagen de inicio de Laravel. Prepárate, hay 
 
 <h2 id = 'servidor'>Configuración del Servidor</h2>
 Para configurar el servidor
-
+El cambio para t1.
 <h2 id = 'basica'>Configuración Básica</h2>
 
 <h2 id = 'ambientes'>Ambientes</h2>
