@@ -29,7 +29,7 @@ Para configurar el servidor
 Se hizo un cambio para t2.
 
 <h2 id = 'basica'>Configuración Básica</h2>
-
+Para Branch t1.
 <h2 id = 'ambientes'>Ambientes</h2>
 
 <h2 id = 'url'>URL's Limpias</h2>
